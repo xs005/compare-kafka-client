@@ -1,0 +1,5 @@
+This is a comparision from Matthew
+http://matthewrocklin.com/blog/work/2017/10/10/kafka-python#:~:text=Both%20PyKafka%20and%20confluent%2Dkafka,are%20now%20available%20for%20both.
+
+Confluent-kafka performance best
+
